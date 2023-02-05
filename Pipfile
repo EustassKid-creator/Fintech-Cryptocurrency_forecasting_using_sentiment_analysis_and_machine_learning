@@ -1,0 +1,36 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+cryptocmd = "*"
+itemadapter = "*"
+pandas = "*"
+python-dotenv = "*"
+quandl = "*"
+requests = "*"
+scrapy = "*"
+selenium = "*"
+jupyter = "*"
+notebook = "*"
+langdetect = "*"
+matplotlib = "*"
+nltk = "*"
+numpy = "*"
+plotly = "*"
+pmdarima = "*"
+pysentiment2 = "*"
+scikit-learn = "*"
+seaborn = "*"
+statsmodels = "*"
+tsfresh = "*"
+wordcloud = "*"
+ta = "*"
+joblib = "*"
+textblob = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
